@@ -50,6 +50,7 @@
 }
 
 .Heading {
+    font-weight: 700;
     font-size: 2rem;
     line-height: 2.5rem;
 }
@@ -105,12 +106,14 @@
     max-width: 400px;
     height: 100%;
     min-height: 95vh;
-    border-radius: 15px;
+    border-radius: 20px;
     background-color: hsla(0, 0%, 100%, .1);
     padding: 20px;
 }
 
 .RegisterinForsageBUSDPage-inner-right-container h3 {
+    font-size: 26px;
+    font-weight: 700;
     color: white;
     line-height: 1.5;
 }
