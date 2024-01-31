@@ -187,9 +187,9 @@ const Dashboard = () => {
   const boxdata3 = [
     { name: 'x3/x4', link: ' 0x5ac...B97' },
     { name: 'x3/x4', link: ' 0x5ac...B97' },
-    { name: 'x3/x4', link: ' 0x5ac...B97' },
-    { name: 'x3/x4', link: ' 0x5ac...B97' },
-    { name: 'x3/x4', link: ' 0x5ac...B97' }
+    // { name: 'x3/x4', link: ' 0x5ac...B97' },
+    // { name: 'x3/x4', link: ' 0x5ac...B97' },
+    // { name: 'x3/x4', link: ' 0x5ac...B97' }
   ]
 
   return (
