@@ -22,6 +22,7 @@ body {
     width: 200px;
     height: 40px;
     border-radius: 20px;
+    padding: 5px 0px 15px 0px;
     border: 1px solid blue;
     transition: all 250ms ease-in-out;
 }

@@ -19,7 +19,7 @@ const WelcomeGroWays = () => {
             <div className="welcome-container">
                 <div className="welcome-inner-div">
                     <div className="welcome-left-div">
-                        <h2>Welcome to GroWays BUSD</h2>
+                        <h2>Welcome to GroWays </h2>
                         <p>Connect your wallet to start working. First time here? Watch a tutorial to learn more
                         </p>
                         <div className='tow-buttons'>

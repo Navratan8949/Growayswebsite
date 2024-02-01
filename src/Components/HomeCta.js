@@ -10,9 +10,9 @@ const HomeCta = () => {
   const { openConnectModal } = useConnectModal();
   const { address, isConnected } = useAccount();
 
-  useEffect(()=>{
-    
-  },[isConnected])
+  useEffect(() => {
+
+  }, [isConnected])
   return (
     <div className="container my-0 my-24 lg:my-10 mx-auto md:px-6">
       <section className="mb-5 sm:mb-32">
@@ -20,7 +20,7 @@ const HomeCta = () => {
           <div className="mb-12 w-full shrink-0 grow-0 basis-auto lg:mb-0 lg:w-5/12">
             <div className="flex lg:py-12">
               <img
-                src={img1}
+                src="image/secuirtybadge.avif"
                 className="w-full rounded-lg shadow-lg dark:shadow-black/20 lg:ml-[50px] z-[10]"
                 alt="image"
               />
@@ -30,10 +30,11 @@ const HomeCta = () => {
             <div className="flex h-full items-center rounded-lg bg-transparent p-6 text-center text-[#4361EE] lg:pl-12 lg:text-left" style={{ background: "transparent", border: "1px solid #4361EE" }}>
               <div className="lg:pl-12">
                 <h2 className="mb-6 text-3xl font-bold">
-                Unlocking Financial Access in Education: Discover the GroWays Ecosystem.
+                  What is Decentralization ?
                 </h2>
                 <p className="mb-6 pb-2 lg:pb-0 text-[#ffffff]">
-                Discover innovative solutions and pathways to enhance financial access and support educational opportunities. Dive into the world of Decentralized Finance (DeFi) and its transformative role in shaping the future of education. Join us on this educational journey!
+                  What is Decentralization ?
+                  Decentralization refers to the distribution  of power, authority, or control across a  network or multiple entities, instead of  concentrating it in a single central  authority or location.In various contexts, decentralization can manifest in political, economic, or technological systems.
                 </p>
                 {
                   !isConnected ?

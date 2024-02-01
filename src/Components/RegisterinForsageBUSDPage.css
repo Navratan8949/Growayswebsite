@@ -35,7 +35,8 @@
         height: 200px;
         background-color: transparent;
         background-position: center;
-        background: url(../../public/image/hqdefault.jpg) no-repeat center;
+        /* background: url(../../public/image/hqdefault.jpg) no-repeat center; */
+        background-repeat: repeat;
         background-size: cover;
     }
 

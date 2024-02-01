@@ -6,7 +6,7 @@ const Accountpreview = () => {
         <div className='Accountpreview-container'>
             <div className="Accountpreview-inner-container">
                 <h1>Account preview</h1>
-                <p>Look up any Forsage GroWays member account in preview mode. Enter ID or GroWays address to preview or click Demo to view a random account.
+                <p>Look up any  GroWays member account in preview mode. Enter ID or GroWays address to preview or click Demo to view a random account.
                 </p>
                 <div className="Accountpreview-container">
 

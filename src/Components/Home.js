@@ -41,7 +41,7 @@ const Home = (props) => {
     <RegisterinForsageBUSD/>
     {/* <RegisterinForsageBUSDPage/> */}
     {/* <SimpleSlider/> */}
-    <Autoplay/>
+    {/* <Autoplay/> */}
     <Accountpreview/>
     {/* <Roadmap/> */}
     <TokenIntro/>
