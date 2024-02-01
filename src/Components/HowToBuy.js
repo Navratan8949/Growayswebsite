@@ -7,7 +7,7 @@ const HowToBuy = () => {
              
                 <div className="flex flex-wrap ">
                     <div className="sm:mb-12 mt-5 p-3 w-full shrink-0 grow-0 basis-auto md:mb-0 md:w-6/12 md:px-3 lg:px-6">
-                        <h2 className='text-[#f1552c] mb-5 text-center'>
+                        <h2 className='text-[#406AFF] mb-5 text-center'>
 
                             HOW TO BUY
                         </h2>
@@ -19,19 +19,19 @@ const HowToBuy = () => {
                         <h3 className="text-[#fcd227] fs-5 text-center mb-5">QUICK START GUIDE</h3>
                         <ol className="steps">
                             <li className="step">
-                                <h4 className='text-[#f1552c]'>Create Web3 wallets</h4>
+                                <h4 className='text-[#406AFF]'>Create Web3 wallets</h4>
                                 <p className="text-[#ffffff] fs-6">Register on Mata Mask or other Wallets through app or browser</p>
                             </li>
                             <li className="step">
-                                <h4 className='text-[#f1552c]'>Send BNB to your wallet</h4>
+                                <h4 className='text-[#406AFF]'>Send BNB to your wallet</h4>
                                 <p className="text-[#ffffff] fs-6"> Add BNB to your Wallet</p>
                             </li>
                             <li className="step">
-                                <h4 className='text-[#f1552c]'>Connect your wallet to Metamask</h4>
+                                <h4 className='text-[#406AFF]'>Connect your wallet to Metamask</h4>
                                 <p className="text-[#ffffff] fs-6">Browse your wallet and connect it with Metamask.org</p>
                             </li>
                             <li className="step">
-                                <h4 className='text-[#f1552c]'>Swap BNB for Decentralised Finance Institute</h4>
+                                <h4 className='text-[#406AFF]'>Swap BNB for Decentralised Finance Institute</h4>
                                 <p className="text-[#ffffff] fs-6 " >
                                     Now go to trade and exchange BNB to Decentralised Finance Institute
                                     <br />
