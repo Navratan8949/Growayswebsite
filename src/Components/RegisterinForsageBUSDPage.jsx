@@ -50,7 +50,7 @@ const RegisterinForsageBUSDPage = () => {
 
                             <div className='whatisGroways'>
                                 <a href="https://youtu.be/DZCMExTA7hI?si=GCCTMxjHegg1r0Ll" target="_blank" rel="noopener noreferrer">
-                                    <img src="image/hqdefault.jpg" alt="" />
+                                    <img src="image/whatisGroways.jpg" alt="" />
                                 </a>
                             </div>
                         </div>

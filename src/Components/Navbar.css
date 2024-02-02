@@ -35,3 +35,15 @@ body {
   width: 160px;
   height: 90px;
 }
+
+@media (max-width:430px) {
+  .navbars {
+    padding: 0px 10px !important;
+  }
+
+  .navbars .Navbar-left-header img {
+    width: 130px;
+    height: 70px;
+  }
+
+}

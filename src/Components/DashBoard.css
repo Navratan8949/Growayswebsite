@@ -1,4 +1,4 @@
-.Platform-container{
+.Platform-container {
     display: flex;
     flex-direction: column;
     /* justify-content: center; */
@@ -27,8 +27,35 @@
 
 }
 
+@media (max-width: 468px) {
+
+    .platform-left-box {
+        overflow-x: scroll !important;
+        overflow-y: hidden;
+    }
+
+    .table-in-row-1 {
+        width: 450px !important;
+    }
+
+    /* .table-in-row-1 .table-left-div,
+    .table-right-div {
+        align-items: center;
+        display: flex;
+        gap: 14px;
+    } */
+
+    .NewUser,
+    .transaction {
+        gap: 24px !important;
+    }
+}
+
+
+
+
 @media (max-width:1123px) {
-     .platform-container-main {
+    .platform-container-main {
         /* flex-direction: column-reverse; */
         /* align-items: center; */
     }
@@ -266,5 +293,3 @@
     display: flex;
     gap: 10px;
 }
-
-
