@@ -30,6 +30,8 @@ import Needhelp from './Needhelp'
 import Autoplay from './ReactSlick'
 import RegisterinForsageBUSD from './RegisterinForsageBUSD'
 import RegisterinForsageBUSDPage from './RegisterinForsageBUSDPage'
+import DownloadPDF from './downloadPDF'
+import SimpleDialogDemo from './PopUpPDF'
 
 const Home = (props) => {
   return (
@@ -47,8 +49,11 @@ const Home = (props) => {
     <TokenIntro/>
     <HowToBuy/>
     <HomeCta/>
-    <Dashboard/>
+    {/* <Dashboard/> */}
     <Needhelp/>
+
+    <DownloadPDF/>
+    {/* <SimpleDialogDemo/> */}
     <Topbar/>
     {/* <SecondCompo/> */}
     {/* <EcoSystem/> */}
